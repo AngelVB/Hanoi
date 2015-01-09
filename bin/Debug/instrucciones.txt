@@ -1,0 +1,24 @@
+LA TORRE DE HANOI
+
+Bienvenidos al videojuego La Torre de Hanoi. Versión del famosísimo solitario del mismo nombre.
+
+El objetivo es bastante sencillo, se trata de conseguir desplazar todos los discos (líneas rojas) desde la varilla origen (varilla 1) hasta cualquiera de las otras dos varillas.
+
+Solo hay una condición:
+	No se puede colocar un disco más grande sobre uno más pequeño.
+
+
+FUNCIONAMIENTO.
+
+- Selecciona Nueva Partida.
+
+- Elige el número de discos (de 0 a 10);
+
+-Utiliza las teclas [1], [2] o [3] para mover los discos de una varilla a otra o [0] para salir.
+
+En cualquier momento podrás volver a la última partida que dejaste a medias entrando en Nueva Partida - Cargar Partida
+
+
+RANKING.
+
+Al finalizar una partida con éxito, se solicitará un nombre de usuario y se almacenará la puntuación para, en el caso de ser de las mejores, mostrarla en este apartado. Habrá un ranking para cada uno de los números de discos (de 2 a 10).

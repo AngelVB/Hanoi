@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Programas/Tema11/11-2-1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="partida.cs" Line="1" Column="1" />
+      <File FileName="disco.cs" Line="1" Column="1" />
+      <File FileName="ComparadorRanking.cs" Line="3" Column="3" />
+      <File FileName="Ranking.cs" Line="6" Column="6" />
+      <File FileName="../../Programas/Tema5/calcula.cs" Line="1" Column="1" />
+      <File FileName="../../Programas/Tema11/11-2-1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Program.cs" line="86" offsetX="325" offsetY="1105" expression="ranking[3]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <AuthorInfo Name="angelvalera" Email="" Copyright="angelvalera" Company="" Trademark="" />
+</Properties>

@@ -1,0 +1,74 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:partida id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <discos>6</discos>
+      <v1 href="#ref-2" />
+      <v2 href="#ref-3" />
+      <v3 href="#ref-4" />
+      <contador>3</contador>
+    </a1:partida>
+    <a2:Stack id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <contents href="#ref-5" />
+      <current>3</current>
+      <count>4</count>
+      <capacity>16</capacity>
+      <modCount>19</modCount>
+    </a2:Stack>
+    <a2:Stack id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <contents href="#ref-6" />
+      <current>-1</current>
+      <count>0</count>
+      <capacity>16</capacity>
+      <modCount>7</modCount>
+    </a2:Stack>
+    <a2:Stack id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <contents href="#ref-7" />
+      <current>1</current>
+      <count>2</count>
+      <capacity>16</capacity>
+      <modCount>9</modCount>
+    </a2:Stack>
+    <SOAP-ENC:Array id="ref-5" SOAP-ENC:arrayType="xsd:anyType[16]">
+      <item href="#ref-8" />
+      <item href="#ref-9" />
+      <item href="#ref-10" />
+      <item href="#ref-11" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="xsd:anyType[16]">
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:anyType[16]">
+      <item href="#ref-12" />
+      <item href="#ref-13" />
+    </SOAP-ENC:Array>
+    <a1:Disco id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>5</numdisco>
+      <dibujo id="ref-14">  ***********  </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+    <a1:Disco id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>4</numdisco>
+      <dibujo id="ref-15">   *********   </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+    <a1:Disco id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>3</numdisco>
+      <dibujo id="ref-16">    *******    </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+    <a1:Disco id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>2</numdisco>
+      <dibujo id="ref-17">     *****     </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+    <a1:Disco id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>1</numdisco>
+      <dibujo id="ref-18">      ***      </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+    <a1:Disco id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Hanoi/Hanoi%2C%20Version%3D1.0.5267.30039%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <numdisco>0</numdisco>
+      <dibujo id="ref-19">       *       </dibujo>
+      <seleccionado>false</seleccionado>
+    </a1:Disco>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,10 @@
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Debug/Hanoi.exe.mdb
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Debug/Hanoi.exe
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/Hanoi.exe
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/Hanoi.exe.mdb
+/Users/Angel/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Angel/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Debug/Hanoi.exe.mdb
+/Users/Angel/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Debug/Hanoi.exe
+/Users/Angel/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/Hanoi.exe
+/Users/Angel/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Debug/Hanoi.exe.mdb

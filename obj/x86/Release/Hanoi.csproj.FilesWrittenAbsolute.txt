@@ -1,0 +1,5 @@
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Release/Hanoi.exe.mdb
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/bin/Release/Hanoi.exe
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Release/Hanoi.exe
+/Users/angelvalera/Dropbox/DAM/Primero/Programacion/Trimestre3/Hanoi/obj/x86/Release/Hanoi.exe.mdb
